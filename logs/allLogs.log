@@ -1,0 +1,10 @@
+DEBUG City and zone:Kiev 00:58:22.630 ua.andrew.hellocity.Solution 
+DEBUG Resource name in UTF8Control: HelloCity.properties 00:58:22.644 u.andrew.hellocity.print.UTF8Control 
+DEBUG Resource name in UTF8Control: HelloCity.properties 00:58:22.644 u.andrew.hellocity.print.UTF8Control 
+DEBUG Resource name in UTF8Control: HelloCity_ru.properties 00:58:22.644 u.andrew.hellocity.print.UTF8Control 
+DEBUG Changed encoding in bungle correctly! 00:58:22.645 u.andrew.hellocity.print.UTF8Control 
+DEBUG Resource name in UTF8Control: HelloCity_ru_RU.properties 00:58:22.645 u.andrew.hellocity.print.UTF8Control 
+DEBUG Resource name in UTF8Control: HelloCity_ru_RU.properties 00:58:22.645 u.andrew.hellocity.print.UTF8Control 
+DEBUG Bundle: HelloCity 00:58:22.646 u.a.hellocity.print.OwnMessageWriter 
+DEBUG Zone not fount! 00:58:22.646 u.a.hellocity.time.OwnTimeIdentifier 
+DEBUG TimesOfDay is night 00:58:22.798 ua.andrew.hellocity.Solution 
