@@ -3,7 +3,6 @@ package ua.andrew.hellocity.print;
 import org.junit.Before;
 import org.junit.Test;
 
-import java.util.Locale;
 import java.util.ResourceBundle;
 
 import static org.junit.Assert.assertEquals;
