@@ -14,7 +14,6 @@ public class UTF8ControlTest {
 
     @Before
     public void init() {
-        Locale.setDefault(Locale.ENGLISH);
         bundle = ResourceBundle.getBundle("HelloCity", new UTF8Control());
     }
 
