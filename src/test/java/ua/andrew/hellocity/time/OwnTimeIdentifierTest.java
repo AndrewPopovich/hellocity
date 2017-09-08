@@ -25,7 +25,7 @@ public class OwnTimeIdentifierTest {
     @Test
     public void testIdentifyTime() {
         assertEquals("Returned time is wrong!",
-                OffsetDateTime.now().format(format),
+                OffsetDateTime.now(ZoneId.of("Europe/Kiev")).format(format),
                 timeIdentifier.identifyTime("Kiev", "Europe/Kiev").format(format));
     }
 

@@ -8,3 +8,13 @@ DEBUG Resource name in UTF8Control: HelloCity_ru_RU.properties 00:58:22.645 u.an
 DEBUG Bundle: HelloCity 00:58:22.646 u.a.hellocity.print.OwnMessageWriter 
 DEBUG Zone not fount! 00:58:22.646 u.a.hellocity.time.OwnTimeIdentifier 
 DEBUG TimesOfDay is night 00:58:22.798 ua.andrew.hellocity.Solution 
+DEBUG Didn't found city in allZones! City name = Unknown City 01:42:16.030 u.a.hellocity.time.OwnTimeIdentifier 
+DEBUG Zone not fount! 01:42:16.039 u.a.hellocity.time.OwnTimeIdentifier 
+DEBUG ZonedId is a: Europe/Kiev 01:42:16.046 u.a.hellocity.time.OwnTimeIdentifier 
+DEBUG Zone not fount! 01:42:16.049 u.a.hellocity.time.OwnTimeIdentifier 
+DEBUG Didn't found city in allZones! City name = Dnipro 01:42:16.051 u.a.hellocity.time.OwnTimeIdentifier 
+DEBUG Didn't found city in allZones! City name = Unknown City 01:43:31.895 u.a.hellocity.time.OwnTimeIdentifier 
+DEBUG Zone not fount! 01:43:31.902 u.a.hellocity.time.OwnTimeIdentifier 
+DEBUG ZonedId is a: Europe/Kiev 01:43:31.904 u.a.hellocity.time.OwnTimeIdentifier 
+DEBUG Zone not fount! 01:43:31.905 u.a.hellocity.time.OwnTimeIdentifier 
+DEBUG Didn't found city in allZones! City name = Dnipro 01:43:31.905 u.a.hellocity.time.OwnTimeIdentifier 
