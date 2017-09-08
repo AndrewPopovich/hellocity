@@ -3,4 +3,4 @@ sudo: false
 
 install: true
 
-script: mvn test -B
+script: mvn test -B verify
